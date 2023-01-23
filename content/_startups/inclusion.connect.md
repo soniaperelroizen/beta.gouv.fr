@@ -1,7 +1,6 @@
 ---
 title: Inclusion Connect
-mission: Simplifer l’utilisation des services à destination des professionnels
-  de l’inclusion.
+mission: Connecter 160 000 professionnels de l’inclusion aux services numériques de leur quotidien, d’une manière simple, sécurisée, efficace.
 sponsors:
   - /organisations/pole-emploi
   - /organisations/mtei
@@ -16,16 +15,21 @@ phases:
 ---
 
 
-## Contexte
+## Problème
 
-Il existe de nombreux services numériques qui s﻿'adressent aux professionnels de l'inclusion (Les emplois de l'inclusion, DORA, RDV-insertion, le marché de l'inclusion etc.). Pour chacun de ces services, les professionnels doivent se créer un compte. C﻿'est autant de mots de passe, d'identifiants et de comptes qu'ils doivent gérer.
-
+Les services numériques à destination des professionnels de l’inclusion se multiplient, et avec eux les identifiants et mots de passe. Pour les usagers cela devient complexe et fastidieux et présente de vrais risques de sécurité.
 C'est donc une source de friction et une perte de temps pour les utilisateurs au quotidien.
 
-## Solution
 
-Inclusion Connect est un Single Sign-On (SSO). Avec Inclusion Connect, l'usager se crée un compte unique qu'il peut utiliser pour se connecter à tous les services partenaires.
+## Notre service
 
+Avec Inclusion Connect, nous simplifions la gestion des identifiants et facilitons l’accès au numérique en toute sécurité, grâce à un compte unique basé sur un protocole solidement éprouvé (OpenIdConnect).
+
+
+## Nos usagers
+
+Tous les professionnels de l’inclusion.
+Comme les conseillers en insertion professionnelle, les travailleurs sociaux, les référents uniques (ex : PE, Cap emploi, CD, CCAS/CIAS, Missions Locales, associations conventionnées, IAE, centres d’hébergement, etc.), les employeurs solidaires etc.
 
 
 ## Déploiement
@@ -35,3 +39,6 @@ Inclusion Connect est un Single Sign-On (SSO). Avec Inclusion Connect, l'usager 
 * Les emplois de l'inclusion
 * DORA
 * RDV-solidarités
+* La communauté de l'inclusion
+* Mon Suivi Social
+* Conseillers Numériques France Service (pour les grands réseaux et structures)
