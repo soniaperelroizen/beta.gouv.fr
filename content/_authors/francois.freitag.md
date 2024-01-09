@@ -9,7 +9,6 @@ missions:
     status: independent
     employer: Malt
 startups:
-  - inclusion.connect
   - itou
 previously:
   - carnet.de.bord
